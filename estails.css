@@ -1,0 +1,60 @@
+/*body*/*{
+    background: gray;
+    font-weight: bolder;
+    font-size: 200px;
+/* }
+.herencia{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: end;
+    color: blue ;
+    height: 50%;
+    width: 100%;
+    font-size: 100px;
+    background: rgb(0, 0, 0);
+} 
+
+ .herencia{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    height: 50%;
+    width: 100%;
+    font-size: 100px;
+    background: rgb(0, 0, 0);
+}
+   
+
+     #uwu{
+        display: grid;
+        color:crimson;
+        background-color: red;
+        
+        
+        height: 500px;
+        font-size: 140px;
+        
+    }
+    
+          #exam{
+            display: grid;
+            justify-items: center;
+            align-items: center;
+            height: 700px;
+            width: 95%;
+            font-size: 155px;
+            background: green;
+        }  
+            #miraculos{
+                display: grid;
+                justify-items: center;
+                align-items: center;
+                
+                width: 85%;
+                color:black;
+                font-size: 110px;
+                background: aqua;
+            } */
